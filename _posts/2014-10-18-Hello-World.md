@@ -1,9 +1,8 @@
----
-layout: post
-title: My first post on the Dairy of a Grumpy Old Dev!
----
 
-My name is Ramses Vejar and if I would have to define myself in one sentence I would describe me as a Grumpy old Dev! Always passionate about technology, most of the time opinionated and biased, but above all open for new, and hopefully, disruptive ideas!
+My first post on the Dairy of a Grumpy Old Dev!
+
+
+My name is Ramses Vejar and if I would have to define myself in one sentence, I would describe me as a Grumpy old Dev! Always passionate about technology, most of the time opinionated and biased, but above all: open for new, and hopefully, disruptive ideas!
 
 After a long, long time I decide to write about one of the things that I'm most passionate about: Software Development.
 
