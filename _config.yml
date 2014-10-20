@@ -10,7 +10,7 @@ defaults:
     scope:
       path: "" # empty string for all files
     values:
-      title: Dairy of a Grumpy Old Dev by Ramses Vejar
+      title: Journal of a Grumpy Old Dev by Ramses Vejar
 
 description: Stylish Jekyll Theme
 author:
