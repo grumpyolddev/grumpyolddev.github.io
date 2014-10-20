@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 #
 # This file contains configuration flags to customize your site
 #
@@ -6,7 +7,7 @@
 name: Dairy of a Grumpy Old Dev - Ramses Vejar
 
 # Short bio or description (displayed in the header)
-description: Passionate Developer from Somewhere
+description: Passionate Developer from Somewhere/Nowhere
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
@@ -18,7 +19,7 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble: 
-  email: 
+  email: ramsesvejar@gmail.com
   facebook: 
   flickr: 
   github: grumpyolddev/grumpyolddev.github.io
@@ -26,7 +27,7 @@ footer-links:
   linkedin: 
   pinterest: 
   rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
-  twitter: ramsesvejar
+  twitter: ramses_vejar
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
 
 # Your disqus shortname, entering this will enable commenting on posts
@@ -48,27 +49,37 @@ baseurl: ""
 #
 # !! You don't need to change any of the configuration flags below !!
 #
+=======
+# visit https://github.com/mojombo/jekyll/wiki/Configuration for more settings
+>>>>>>> Stashed changes
 
+paginate: 10 # pagination based on number of posts
+paginate_path: "page:num"
+exclude: ["README.md"] # files to exclude
+highlighter: true
 markdown: kramdown
-highlighter: pygments
-permalink: /:title/
 
-# The release of Jekyll Now that you're using
-version: v1.0.0
 
-# Set the Sass partials directory, as we're using @imports
-sass:
-  sass_dir: _scss
-  style: :expanded # You might prefer to minify using :compressed
+defaults:
+  -
+    scope:
+      path: "" # empty string for all files
+    values:
+      title: dbyll
 
-# Use the following plug-ins
-gems:
-  - jemoji # Emoji please!
-  - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
+description: Stylish Jekyll Theme
+author:
+  name: Ramses Vejar
+  email: ramsesvejar@hotmail.com
+  github: grumpyolddev/grumpyolddev.github.io
+  twitter: ramses_vejar
+  pinterest: 
+  linkedin: ramsesvejar
+  bio: 
+  email_md5: 
 
-# Exclude these files from your production _site
-exclude:
-    - Gemfile
-    - Gemfile.lock
-    - LICENSE
-    - README.md
+rss_path: feed.xml
+categories_path: categories.html
+tags_path: tags.html
+
+BASE_PATH:
