@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "My first post on the Dairy of a Grumpy Old Dev!"
+title: "My first post!"
 categories: 
   - general
 tags: 
