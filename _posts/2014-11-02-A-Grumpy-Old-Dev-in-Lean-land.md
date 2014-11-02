@@ -19,11 +19,11 @@ For this post I wanted to share some thoughts on a popular book about Lean. **Le
 
 Software Development land is a very special place. It's a living entity that changes at the speed of the thought! Every second it generates new vibrant ideas, and at the same point of time eats and disposes the ideas that claimed to be the next big thing in the block a little while ago...
 
-Software development processes are not the exception. Not so long ago everyone was excited about Agile, Agility or whatever you want to call it now. We loved daily stand-ups, backlogs, stories (written in this way: 'As a User I want this, so I can...' because we have to be able to see the 'Business Value' right?). We liked grooming, planning and tasking meetings for every sprint.
+Software development processes are not the exception. Not so long ago everyone was excited about Agile, Agility or whatever you want to call it now. We loved **daily stand-ups**, **backlogs**, **stories** (written in this way: *'As a User I want this, so I can...'* because we have to be able to see the **'Business Value'** right?). We liked **grooming**, **planning** and **tasking meetings** for every **sprint**.
 
 Everyone started to talk about how agile we were. We started to hear Agile this and Agile that... We spoke about what Agile meant to us, which by the way has a different definition to everyone. Then, we realized everything was doomed when we started looking for ***'Agile Coaches'***, that have never written a line of code in a long time or maybe never... Finally, we had to be Scrum Masters, of course, we had to pay training courses, certifications and memberships to the Agile community...
 
-I believe Scrum is a great improvement from the waterfall world we used to live in. However, I strongly believe that Lean is the natural progression of the software development methodologies, even when I know that we eventually will overuse this word and will start looking for Lean gurus that show us 'the right path'.
+I believe **Scrum** is a great improvement from the **Waterfall** world we used to live in. However, I strongly believe that **Lean** is the natural progression of the software development methodologies, even when I know that we eventually will overuse this word and will start looking for Lean gurus that show us **'the right path'**.
 
 Ok, it is time to talk about the book! My apologies for the outburst, I tend to get passionate about this!
 
