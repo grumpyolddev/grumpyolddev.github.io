@@ -53,7 +53,7 @@ Start building software in Iterations. Demo every piece of work built to your pe
 
 Improve your environment by creating a space where everyone can see the goal of the current iteration, what has been done, what is in progress, and what has to be done. Put in place Information radiators to make problems visible!
 
-Personally, this book is a must read for everyone interested in writing better/faster software. Easy to read and well balanced for technical a non-technical audience.
+Personally, this book is a must read for everyone interested in writing software in a better/faster way. Easy to read and well balanced for technical a non-technical audience.
 
 My biggest take away is the reality check about where we are in the path of being **'Lean'**.
 
