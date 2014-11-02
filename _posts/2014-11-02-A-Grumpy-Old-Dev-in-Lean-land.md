@@ -11,7 +11,7 @@ tags:
   - development processes
   - Lean
   - Agile
-fullview: true
+fullview: false
 published: true
 ---
 

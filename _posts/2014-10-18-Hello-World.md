@@ -6,7 +6,7 @@ categories:
 tags: 
   - dev
   - software
-fullview: true
+fullview: false
 published: true
 ---
 
