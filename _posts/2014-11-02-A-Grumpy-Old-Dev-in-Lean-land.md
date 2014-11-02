@@ -31,7 +31,7 @@ This book gives not only a good introduction about The ***'Lean Thinking'***, bu
 
 Lean has its origins in the car manufacturing industry, which shares many problems with the Software Development industry. It explores the concept of “Lean Thinking” and expands its principles and tools. Such as:
 
-**Eliminate Waste**, Basically anything that does not add any value to the customer is considered Waste. e.g. This concept is one of the main differences with the traditional Software Development Processes. Even the Agile ones, like Scrum, because it considers meetings and backlogs as waste, and thus something to be minimized.
+**Eliminate Waste**, Basically anything that does not add any value to the customer is considered Waste. e.g. Extra Processes, Extra Features, Time spent waiting for something to be done, etc. This concept is one of the main differences with the traditional Software Development Processes. Even the Agile ones, like Scrum, because it considers meetings and backlogs as waste, and thus something to be minimized.
 
 **Increase Feedback**, You will increase your productivity by developing software in Iterations with refactoring instead of trying to “Do It Right the First Time”, as most of the traditional methodologies suggests. The explanation to this is because experimentation is cheaper and leads to build knowledge faster. Instead of building a big module at once, try to build the most important features first and deliver them to your customers. It's hard to say, but if you are not delivering features, every iteration, to your customers, you are not being Lean enough... It is all about fast Feedback!!
 Finally, keep in mind that an iteration should be considered as possible solution, not the final one!
