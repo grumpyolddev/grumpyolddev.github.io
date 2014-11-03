@@ -50,6 +50,8 @@ Finally, keep in mind that an iteration should be considered as a possible solut
 
 Well, Lean focuses on reducing waste! You can start identifying Waste by creating, by hand, a **Value Stream Map** of your current development process, then start attacking the biggest bottlenecks.
 
+Prefer communication face to face over documentation that will rot pretty quick.
+
 Then, you can improve your programming environment to include: Automated build process: Continuous Integration, Continuous Delivery, Automated testing (end to end, component, integration, performance), version control.
 Start building software in Iterations. Demo every piece of work built to your peers, not only at the end of the Iteration. More importantly, start delivering software in iterations. Software that is not being used by final users is Waste!!
 
