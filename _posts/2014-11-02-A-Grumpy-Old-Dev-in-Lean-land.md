@@ -61,5 +61,5 @@ My biggest take away is the reality check about where we are in the path of bein
 
 Saturn feared that his children would one day overthrow him. For sure that will happen to Lean, but until that happens I'll keep believing that Lean is the natural progression of the Software Development processes.   
 
-I hope you enjoy reading this book as me!
+I hope you enjoy reading this book as I did!
 
