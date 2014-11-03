@@ -17,7 +17,9 @@ published: true
 
 For this post I wanted to share some thoughts on a popular book about Lean. **Lean Software Development: An Agile Toolkit by Mary Poppendieck, Tom Poppendieck**.
 
-Software Development land is a very special place. It's a living entity that changes at the speed of the thought! Every second it generates new vibrant ideas, and at the same point of time eats and disposes the ideas that claimed to be the next big thing in the block a little while ago...
+Saturn, a Roman mythological character, was famous for eating its own children upon their births... In many ways the Software Development industry behaves in the same way as Saturn. 
+
+This industry changes at the speed of the thought! Every second it generates new vibrant ideas, and at the same point of time it eats and disposes the ideas that claimed to be the next big thing a little while ago...
 
 Software development processes are not the exception. Not so long ago everyone was excited about Agile, Agility or whatever you want to call it now. We loved **daily stand-ups**, **backlogs**, **stories** (written in this way: *'As a User I want this, so I can...'* because we have to be able to see the **'Business Value'** right?). We liked **grooming**, **planning** and **tasking meetings** for every **sprint**.
 
@@ -57,4 +59,7 @@ Personally, this book is a must read for everyone interested in writing software
 
 My biggest take away is the reality check about where we are in the path of being **'Lean'**.
 
-Enjoy reading!
+Saturn feared that his children would one day overthrow him. For sure that will happen to Lean, but until that happens I'll keep believing that Lean is the natural progression of the Software Development processes.   
+
+I hope you enjoy reading this book as me!
+
