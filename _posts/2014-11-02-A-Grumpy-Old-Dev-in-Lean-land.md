@@ -17,7 +17,7 @@ published: true
 
 For this post I wanted to share some thoughts on a popular book about Lean. **Lean Software Development: An Agile Toolkit by Mary Poppendieck, Tom Poppendieck**.
 
-Saturn, a Roman mythological character, was famous for eating its own children upon their births... In many ways the Software Development industry behaves in the same way as Saturn. 
+Saturn, a Roman mythological character, was famous for eating its own children upon their births... In many ways the Software industry behaves as Saturn. 
 
 This industry changes at the speed of the thought! Every second it generates new vibrant ideas, and at the same point of time it eats and disposes the ideas that claimed to be the next big thing a little while ago...
 
