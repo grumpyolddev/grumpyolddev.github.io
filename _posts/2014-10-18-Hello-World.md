@@ -8,6 +8,7 @@ tags:
   - software
 fullview: false
 published: true
+comments: true
 ---
 
 My name is Ramses Vejar and if I would have to define myself in one sentence, I would describe me as a Grumpy old Dev! Always passionate about technology, most of the time opinionated and biased, but above all: open to new, and hopefully, disruptive ideas!
