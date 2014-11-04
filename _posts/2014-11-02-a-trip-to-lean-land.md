@@ -13,6 +13,7 @@ tags:
   - Agile
 fullview: false
 published: true
+comments: true
 ---
 
 For this post I wanted to share some thoughts on a very popular book about Lean. **Lean Software Development: An Agile Toolkit by Mary Poppendieck, Tom Poppendieck**.
