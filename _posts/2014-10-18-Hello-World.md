@@ -10,13 +10,13 @@ fullview: false
 published: true
 ---
 
-My name is Ramses Vejar and if I would have to define myself in one sentence, I would describe me as a Grumpy old Dev! Always passionate about technology, most of the time opinionated and biased, but above all: open for new, and hopefully, disruptive ideas!
+My name is Ramses Vejar and if I would have to define myself in one sentence, I would describe me as a Grumpy old Dev! Always passionate about technology, most of the time opinionated and biased, but above all: open to new, and hopefully, disruptive ideas!
 
 After a long, long time I decide to write about one of the things that I'm most passionate about: Software Development.
 
 I have spent, invested, most of my ride (as a Developer, architect, teacher, but most of the time as a learner of this challenging industry) with Java and working on Web applications for small, medium and large companies/projects.
 
-I have to admit that the more time I work in this industry, the more I feel I need to learn about it. And that's the beauty of this career: it keeps your mind busy and the blood running trying to keep up, and absorb all the information that comes out every day.
+I have to admit that the more I work in this industry, the more I feel I need to learn about it. And that's the beauty of this career: it keeps your mind busy and the blood running trying to keep up, and absorb all the information that comes out every day.
 
 Every day we all read and and listen about new, and often old, ideas, "paradigms", languages, patterns, and strategies about how to write software. Personally, how to write better software to make people's life easier!
 
