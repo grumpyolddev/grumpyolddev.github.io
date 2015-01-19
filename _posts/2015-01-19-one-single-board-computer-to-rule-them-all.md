@@ -8,7 +8,6 @@ categories:
 tags: 
   - dev
   - software
-  - development processes
   - internet of things
 fullview: false
 published: true
