@@ -33,16 +33,18 @@ So, it became personal! I needed to write a program to synchronize my files to G
 
 At this point I had the perfect excuse to use ***Node Js***, an open source platform to write backend applications on ***Javascript***. My plan was installing Node Js along with a custom program to sync the files on the NAS. The plan sounds great, but it failed miserably!
 
-The NAS Operative System, OS, is a proprietary Linux distribution. So, to Install Node I needed to upgrade several Linux packages that this OS did not allowed me to do. In fact, by trying this I damaged the software of the NAS, damn! So, I had to reset the NAS to factory settings. After a few days of painful recovery process, I finally got everything restored on the NAS. But I almost lost all the data stored on it!
+The NAS Operative System, OS, is a proprietary Linux distribution. So, to Install Node I needed to upgrade several Linux packages that this OS did not allowed me to do. In fact, by trying this I damaged the software of the NAS, damn!
+
+So, I had to reset the NAS to factory settings. After a few days of painful recovery process, I finally got everything restored on the NAS. But I almost lost all the data stored on it!
 
 I learned the lesson: never attempt to install non vendor approved packages on your NAS!
 
-After my first failure, I realised that I needed an extra device on my local network that will play the role of an ***Application Server***. A place where I could install all the automation tasks I wanted. In this case, sync all the data from my local storage to Glacier.
+After my first failure, the first one of many, I realised that I needed an extra device on my local network that will play the role of an ***Application Server***. A place where I could install all the automation tasks I wanted. In this case, sync all the data from my local storage to Glacier.
 
 
 **The Perfect Storm**
 
-For about $60, and a week I got a ***Raspberry Pi***, a credit card-sized single-board computer. where I installed:
+For about $60 and a week after, I got a ***Raspberry Pi***, a credit card-sized single-board computer. where I installed:
 
 - ***s3funnel***, a tool to uploads files to Amazon.
 - Node Js
@@ -56,7 +58,11 @@ After a few weeks of trial and error, the backup process became stable and relia
 
 After all the failures I had playing with the NAS, Glacier, Node Js and the Raspberry Pi, I have to say that it was more painful than I expected. However, it was rewarding.
 
-In the first place, I had the perfect excuse to play with all these tools. Secondly, I spent some money on the NAS, Raspberry PI, and Glacier. But at the end of the day my data is more secure than ever for only a few bucks! And last but not least, I have the infrastructure I needed to automate more things at home, like: downloading and stream content automatically, have control of smart devices such as lights and sensors, even my robot vacuum. If you are an automation enthusiast, ore you are interested on ***The Internet Of Things***, The sky is the limit!
+First of all, I had the perfect excuse to play with all these tools. Secondly, I spent some money: on the NAS, Raspberry PI, and Glacier. But at the end of the day my data is more secure than ever for only a few bucks!
+
+Last but not least, I have the infrastructure I needed to automate more things at home, like: downloading and stream content automatically, have control of smart devices such as lights and sensors, even my robot vacuum!
+
+If you are an automation enthusiast, ore you are interested on ***The Internet Of Things***, The sky is the limit!
 
 
 **DO's and DONT's**
@@ -65,7 +71,7 @@ The question now is: would I do it again? The short answer is: I would!
 
 However, I would recommend you to buy a good NAS like ***Synology***. It costs a few hundreds, but it is faster, more robust and has lots of applications ready to install! In fact, it can back up all your data to Amazon Glacier without all the pain I suffered.
 
-My second advice is do not buy a Raspberry Pi. Don't get me wrong, I love this device. But, there are others single-board computers more powerful than the Raspberry Pi for about the same price, such as: ***BeagleBone***, ***Banana Pi*** and ***Intel Edison***, among others. For example, if your applications relies heavily on the network. The Raspberry Pi has a 10/100 Ethernet network interface only while its rivals come with Gigabit Ethernet! #fail
+My second advice is do not buy a Raspberry Pi. Don't get me wrong, I love this device. But, there are others single-board computers more powerful than the Raspberry Pi for about the same price, such as: ***BeagleBone***, ***Banana Pi*** and ***Intel Edison***, among others. For example, if your applications relies heavily on the network. The Raspberry Pi has a 10/100 Ethernet network interface only while its rivals come with ***Gigabit Ethernet***. Fail!
 
 My last advice is use Amazon Glacier! You will get a serious cloud backup for cents a month!
 
